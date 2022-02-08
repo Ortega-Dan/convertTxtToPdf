@@ -1,3 +1,3 @@
 # convertTxtToPdf
 
-cupsfilter github.txt > foo.pdf
+cupsfilter foo.txt > foo.pdf
